@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d4468ccee0972cb4aa26b26cafba80ec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deathSFX: {instanceID: 0}
+  - goombaSFX: {instanceID: 0}
+  - monedaSFX: {instanceID: 0}
+  - banderaSFX: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
